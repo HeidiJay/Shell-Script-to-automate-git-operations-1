@@ -6,7 +6,7 @@ git add .
 
 DATE=$(date)
 
-git commit -n "changes made on $DATE"
+git commit -n "Changes made on $DATE"
 
 git push
 
